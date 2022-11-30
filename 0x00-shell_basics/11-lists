@@ -1,4 +1,3 @@
 #!/bin/bash
-ls -al 
-ls -al ../
+ls -aRl ../0x00-shell_basics
 ls -al /boot
